@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=0 python3 main.py\
+    --hidden_size=32 \
+    --n_blocks=1 \
+    --batch_size=256 \
+    --window_size=20 \
+    --stride_size=10 \
+    --train_split=1.0 \
+    --name="MSL" \
+    --lr=1e-1 \
+    --epo=20 \
+    --quantile=0.07 \

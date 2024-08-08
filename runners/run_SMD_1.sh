@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=0 python3 main.py\
+    --hidden_size=8 \
+    --n_blocks=1 \
+    --batch_size=256 \
+    --window_size=60 \
+    --stride_size=10 \
+    --train_split=1.0 \
+    --name="machine-1-4" \
+    --lr=3e-2 \
+    --epo=20 \
+    --quantile=0.05 \
