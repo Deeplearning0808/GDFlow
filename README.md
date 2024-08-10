@@ -3,7 +3,8 @@ This repository contains the source code for our paper 'GDFlow: Anomaly Detectio
 
 ## Model Architecture
 
-The overall architecture of GDFlow is illustrated in the figure below. The preprocessed input data $ \mathbf{W}_p^{(i)} $ is first converted into a continuous path $ X(T) $ through cubic spline interpolation. This path passes through two CDE functions to encode spatio-temporal information, resulting in $ H(T) $ and $ Y(T) $, respectively. These are then combined through matrix multiplication to form $ S(T) $, which is used for density estimation in the NF. The log-likelihoods obtained from this process are further processed with a quantile function to produce $ \mathcal{L}_{Q-NLL} $, which is used to detect normal or anomalies based on the threshold $ \tau $.
+The overall architecture of GDFlow is illustrated in the figure below. The preprocessed input data Wp^(i) is first converted into a continuous path X(T) through cubic spline interpolation. This path passes through two CDE functions to encode spatio-temporal information, resulting in H(T) and Y(T), respectively. These are then combined through matrix multiplication to form S(T), which is used for density estimation in the NF. The log-likelihoods obtained from this process are further processed with a quantile function to produce L_Q-NLL, which is used to detect normal or anomalies based on the threshold τ.
+
 
 ![GDFlow Architecture](assets/GDFlow_architecture.png)
 
