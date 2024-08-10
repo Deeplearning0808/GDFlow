@@ -25,3 +25,13 @@ To install all the required dependencies, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
+
+## Training and Testing
+
+Our experiments can be performed on the SMD (Machine-1-4 and Machine-2-1), MSL (P-15), and SMAP (T-3) datasets using the following commands:
+
+```bash
+bash runners/run_SMD_1.sh
+bash runners/run_SMD_2.sh
+bash runners/run_MSL.sh
+bash runners/run_SMAP.sh
