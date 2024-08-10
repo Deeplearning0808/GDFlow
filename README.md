@@ -10,3 +10,18 @@ This repository contains the source code for our paper 'GDFlow: Anomaly Detectio
 The table below shows the anomaly detection performance and hyperparameter sensitivity on individual deceleration datasets. The best performance is highlighted in bold, and the second-best performance is underlined.
 
 ![Experiment Results Table](assets/Table_2-Anomaly_detection_performance_and_hyperparameter_sensitivity.png)
+
+## Installation
+
+This code was developed using the following environment:
+- Python 3.10.13
+- NumPy 1.26.2
+- SciPy 1.11.4
+- PyTorch 1.12.1
+- CUDA 11.3
+- torchdiffeq 0.2.4
+
+To install all the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
