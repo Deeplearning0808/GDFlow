@@ -7,8 +7,6 @@ This repository contains the source code for our paper 'GDFlow: Anomaly Detectio
 
 ## Experiment Results
 
-The table below shows the anomaly detection performance and hyperparameter sensitivity on individual deceleration datasets. The best performance is highlighted in bold, and the second-best performance is underlined.
-
 ![Experiment Results Table](assets/Table_2-Anomaly_detection_performance_evaluation_on_individual_and_cross-deceleration_datasets..png)
 
 ## Installation
