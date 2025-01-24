@@ -6,7 +6,7 @@ This repository contains the source code for our paper 'Anomaly Detection for Ad
 ![GDFlow Architecture](assets/architecture.png)
 
 ## Experiment Results
-
+Anomaly detection performance evaluation on individual and cross-deceleration datasets. The best performance is highlighted in bold, and the second-best performance is underlined. And, `A' and `N' denote anomaly and normal samples, respectively.
 ![Experiment Results Table](assets/Table_2-Anomaly_detection_performance_evaluation_on_individual_and_cross-deceleration_datasets..png)
 
 ## Installation
