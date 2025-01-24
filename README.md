@@ -3,7 +3,7 @@ This repository contains the source code for our paper 'GDFlow: Anomaly Detectio
 
 ## Model Architecture
 
-![GDFlow Architecture](assets/GDFlow_architecture.png)
+![GDFlow Architecture](assets/GDFlow_architecture.pdf)
 
 ## Experiment Results
 
