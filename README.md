@@ -1,5 +1,5 @@
 # GDFlow
-This repository contains the source code for our paper 'GDFlow: Anomaly Detection with NCDE-based Normalizing Flow for Advanced Driver Assistance System'.
+This repository contains the source code for our paper 'Anomaly Detection for Advanced Driver Assistance System with NCDE-based Normalizing Flow'.
 
 ## Model Architecture
 
