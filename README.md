@@ -12,7 +12,7 @@ Anomaly detection performance evaluation on individual and cross-deceleration da
 - The second-best performance is _underlined_.  
 - `A` and `N` denote anomaly and normal samples, respectively.
 
-![Experiment Results Table](assets/Table_2-Anomaly_detection_performance_evaluation_on_individual_and_cross-deceleration_datasets.png)
+![Experiment Results Table](assets/Anomaly_detection_performance_evaluation_on_individual_and_cross-deceleration_datasets.png)
 
 ## Installation
 
