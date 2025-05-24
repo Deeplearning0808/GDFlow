@@ -10,7 +10,6 @@ This repository contains the source code for our paper 'Anomaly Detection for Ad
 Anomaly detection performance evaluation on individual and cross-deceleration datasets.  
 - The best performance is **highlighted in bold**.  
 - The second-best performance is _underlined_.  
-- `A` and `N` denote anomaly and normal samples, respectively.
 
 ![Experiment Results Table](assets/Anomaly_detection_performance_evaluation_on_individual_and_cross-deceleration_datasets.png)
 
